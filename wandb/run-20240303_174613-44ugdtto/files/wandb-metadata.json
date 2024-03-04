@@ -1,0 +1,43 @@
+{
+    "os": "macOS-14.2.1-arm64-arm-64bit",
+    "python": "3.12.2",
+    "heartbeatAt": "2024-03-03T08:46:14.667418",
+    "startedAt": "2024-03-03T08:46:13.752755",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/jeonseung-u/Desktop/workspace/tensor.py",
+    "codePathLocal": "tensor.py",
+    "codePath": "tensor.py",
+    "host": "jeonseung-uui-MacBookPro.local",
+    "username": "jeonseung-u",
+    "executable": "/usr/local/bin/python3",
+    "cpu_count": 14,
+    "cpu_count_logical": 14,
+    "cpu_freq": {
+        "current": 4056,
+        "min": 1020,
+        "max": 4056
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4056,
+            "min": 1020,
+            "max": 4056
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 926.3517189025879,
+            "used": 9.430858612060547
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 36.0
+    }
+}
