@@ -1,0 +1,5 @@
+[default]
+entity = swoo1577
+project = wandb-tutorial
+base_url = https://api.wandb.ai
+
